@@ -9,6 +9,11 @@
     "email": "trivex@gmail.com",
     "url": "https://twitter.com/lg"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lg/lgscratchpad.git"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.78.0"
   },
